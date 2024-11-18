@@ -41,3 +41,4 @@ Here, the model translates our code to the language we select *(It's empty if we
 ## Note:
 * It only works on codes, nothing else
 * In **'Translated Code'** section, only translation is given, no explaination
+* You need to have your own [Gemini API](https://ai.google.dev/gemini-api/docs/api-key)
